@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Work\code\Demos\android_anim\sweet-alert-dialog-master\library\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e87b1ba63c873263ddfb09a6bffaa47694a51029">
+        <dex dex="D:\Work\code\Demos\android_anim\sweet-alert-dialog-master\sample\build\intermediates\pre-dexed\debug\classes_212bb7508ea5f6b5fecf80b2d768d493f9f20a08.jar" />
+    </item>
+
+</items>
